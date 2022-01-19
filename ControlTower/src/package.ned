@@ -1,3 +1,0 @@
-package controltower;
-
-@license(LGPL);
